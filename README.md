@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
 
-#### <p align="center">Github.com/thehackingsage | Instagram.com/thehackingsage | Twitter.com/thehackingsage</p>
+####
 
 ### What is HackDroid ?
 
@@ -51,7 +51,7 @@ Open This Link [Pentesting Apps for Android](https://mega.nz/#F!jddEnKgY!ELvIqtW
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
+
 
 ***Thankyou.***
 ***Keep Visiting..***
