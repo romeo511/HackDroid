@@ -1,4 +1,4 @@
-#### <p align="center">Project HackDroid - Pentesting Apps For Android by Mr. SAGE</P>
+#### <p align="center">Project HackDroid - Pentesting Apps For Android by kali 511 4 Dr. Asma Albili 💌</P>
 
 <p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
 
